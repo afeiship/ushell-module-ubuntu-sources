@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-ubuntu-sources",
+  "version": "1.0.0",
+  "description": "Ubuntu sources.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-ubuntu-sources.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-ubuntu-sources"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-ubuntu-sources/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-ubuntu-sources"
+}
