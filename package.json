@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-ubuntu-sources",
+  "name": "@feizheng/ushell-module-ubuntu-sources",
   "version": "1.0.0",
   "description": "Ubuntu sources.",
   "main": "index.sh",
@@ -13,12 +13,12 @@
     "shell",
     "ushell-module-ubuntu-sources"
   ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-ubuntu-sources/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-ubuntu-sources"
+  "homepage": "https://github.com/afeiship/ushell-module-ubuntu-sources",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
