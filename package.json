@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-ubuntu-sources",
+  "name": "@jswork/ushell-module-ubuntu-sources",
   "version": "1.0.0",
   "description": "Ubuntu sources.",
   "main": "index.sh",

@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-ubuntu-sources
+npm i -S @jswork/ushell-module-ubuntu-sources
 ```
